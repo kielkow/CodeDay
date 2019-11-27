@@ -16,7 +16,7 @@ export const List = styled.ul`
       color: #71c159;
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
       border-radius: 4px;
-      padding: 20px;
+      padding: 17px;
       font-size: 22px;
       -webkit-transform: scale(1.05);
       -ms-transform: scale(1.05);
