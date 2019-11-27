@@ -33,6 +33,7 @@ export const List = styled.ul`
     a {
       text-decoration: none;
       color: #eee;
+      padding: 17px;
     }
   }
 `;
