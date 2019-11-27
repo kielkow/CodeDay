@@ -21,10 +21,18 @@ export const List = styled.ul`
       -webkit-transform: scale(1.05);
       -ms-transform: scale(1.05);
       transform: scale(1.05);
+      a {
+        color: #71c159;
+      }
     }
 
     & + li {
       border-top: 1px solid #eee;
+    }
+
+    a {
+      text-decoration: none;
+      color: #eee;
     }
   }
 `;

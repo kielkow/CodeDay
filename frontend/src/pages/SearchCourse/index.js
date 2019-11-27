@@ -38,11 +38,31 @@ export default class Car extends Component {
         </Header>
 
         <List>
-          <li>HTML and CSS</li>
-          <li>JavaScript, Ajax e jQuery</li>
-          <li>Front-end UI Avançado</li>
-          <li>JavaScript moderno</li>
-          <li>API seguindo o estilo Rest</li>
+          <li>
+            <a href="https://codeday.eadbox.com.br/ng/student/courses/">
+              HTML e CSS
+            </a>
+          </li>
+          <li>
+            <a href="https://codeday.eadbox.com.br/ng/student/courses/">
+              JavaScript, Ajax e jQuery
+            </a>
+          </li>
+          <li>
+            <a href="https://codeday.eadbox.com.br/ng/student/courses/">
+              Front-end UI Avançado
+            </a>
+          </li>
+          <li>
+            <a href="https://codeday.eadbox.com.br/ng/student/courses/">
+              JavaScript moderno
+            </a>
+          </li>
+          <li>
+            <a href="https://codeday.eadbox.com.br/ng/student/courses/">
+              API seguindo o estilo Rest
+            </a>
+          </li>
         </List>
 
         <SubmitButtonBack loading={loading}>
